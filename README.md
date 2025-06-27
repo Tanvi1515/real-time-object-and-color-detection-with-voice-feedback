@@ -18,7 +18,7 @@ To provide an interactive experience, thesystem incorporates voice feedback and 
   - NumPy : for numerical operations, pixel array reshaping, and color distance calculations
   - PIL (Pillow) : for handling image color analysis and conversion
 - Deep Learning Model:
-  -YOLOv5 from the ultralytics package – for real-time object detection (pre-trained on COCO      dataset)
+  -YOLOv5 from the ultralytics package – for real-time object detection (pre-trained on COCO  dataset)
   -PyTorch (torch) – underlying framework used by YOLOv5
 - Text-to-Speech:
   - gTTS (Google Text-to-Speech) – converts object detection output into speech
