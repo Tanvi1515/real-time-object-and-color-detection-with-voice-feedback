@@ -2,21 +2,21 @@
 
 This mini-project is a computer vision system that detects objects and their colors in real time using a webcam, and provides voice feedback about the detected object.
 
-# 🚀 Features
+## 🚀 Features
 - Real-time object detection using YOLO/OpenCV
 - Color detection using pixel analysis
 - Voice feedback using `pyttsx3`
 - Live video capture via webcam
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python
 - OpenCV
 - NumPy
 - pyttsx3
 - imutils
 
-# 🗂️ Project Structure
-├── proj2.py # Main logic for object and color detection with voice
+## 🗂️ Project Structure
+├── proj2.py # Main logic for object and color detection with voice 
 ├── video_capture.py # Webcam integration for live feed
 
 # 🎬 How It Works
