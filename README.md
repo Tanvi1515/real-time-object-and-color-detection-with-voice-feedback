@@ -42,4 +42,4 @@ To provide an interactive experience, thesystem incorporates voice feedback and 
 3. The system announces the object and its color through voice.
 
 ## ✍️ Author
-Tanvi Prasad Chavan
+Tanvi Prasad Chavan and Arya Prashant Ghadge
